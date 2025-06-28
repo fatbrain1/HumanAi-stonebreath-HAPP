@@ -13,7 +13,7 @@ This model teaches AI to learn not just from human thoughts, but from the *timin
 
 ## Live Demo
 
-Linked to the [Moments Prototype]](https://github.com/fatbrain1/moments-platform) for context.
+Linked to the [Moments Prototype](https://github.com/fatbrain1/moments-platform) for context.
 
 ---
 
